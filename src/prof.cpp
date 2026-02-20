@@ -1,4 +1,4 @@
-#include "Prof.h"
+#include "prof.h"
 #include <iostream>
 #include <iomanip>
 
