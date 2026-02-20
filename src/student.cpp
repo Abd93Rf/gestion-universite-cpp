@@ -1,4 +1,4 @@
-#include "Student.h"
+#include "student.h"
 #include <iostream>
 #include <iomanip>
 #include <numeric>
