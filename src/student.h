@@ -1,8 +1,8 @@
 #ifndef STUDENT_H
 #define STUDENT_H
 
-#include "User.h"
-#include "Database.h"
+#include "user.h"
+#include "database.h"
 
 class Student : public User {
 private:
