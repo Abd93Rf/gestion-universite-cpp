@@ -1,4 +1,4 @@
-#include "User.h"
+#include "user.h"
 
 User::User(int id, const std::string& username, const std::string& password, Role role)
     : id(id), username(username), password(password), role(role) {}
