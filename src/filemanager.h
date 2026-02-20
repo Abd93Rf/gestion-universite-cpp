@@ -1,8 +1,8 @@
 #ifndef FILEMANAGER_H
 #define FILEMANAGER_H
 
-#include "User.h"
-#include "Database.h"
+#include "user.h"
+#include "database.h"
 #include <string>
 
 class FileManager {
