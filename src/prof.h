@@ -1,8 +1,8 @@
 #ifndef PROF_H
 #define PROF_H
 
-#include "User.h"
-#include "Database.h"
+#include "user.h"
+#include "database.h"
 
 class Prof : public User {
 private:
