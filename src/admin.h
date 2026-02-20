@@ -1,8 +1,8 @@
 #ifndef ADMIN_H
 #define ADMIN_H
 
-#include "User.h"
-#include "Database.h"
+#include "user.h"
+#include "database.h"
 
 class Admin : public User {
 private:
